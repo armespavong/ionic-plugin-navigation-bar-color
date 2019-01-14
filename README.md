@@ -1,5 +1,5 @@
 
-# Ionic Plugin: Navigation Bar Color (Typescript)
+# Ionic Plugin: Navigation Bar Color
 Change color of navigation bar (Android) for your app in each page.
 
 ## Install
@@ -16,6 +16,7 @@ For global config using "cordova-plugin-navigationbar-color" you can just add pr
 ```xml
 <preference name="NavigationBarBackgroundColor" value="#282f34" />
 ```
+Where "#282f34" is your desired hex string color code.
 
 or you can use "ionic-plugin-navigation-bar-color" to set inside each Ionic module
 
