@@ -1,0 +1,33 @@
+{
+  "name": "ionic-plugin-navigation-bar-color", 
+  "version": "1.0.0", 
+  "description": "Control native navigation bar color", 
+  "main": "index.ts", 
+  "module": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armespavong/ionic-plugin-navigation-bar-color"
+  },
+  "keywords": [ 
+    "ionic",
+    "ecosystem:cordova",
+    "cordova",
+    "cordova-android",
+    "navigation-bar",
+    "navigation-bar-color",
+    "typescript"
+  ],
+  "author": "Patiparnne Vongchompue", 
+  "license": "None",
+  "bugs": { 
+    "url": "https://github.com/armespavong/ionic-plugin-navigation-bar-color/issues"
+  },
+  "homepage": "https://github.com/armespavong/ionic-plugin-navigation-bar-color#readme",
+  "cordova": {
+      "id": "ionic-plugin-navigation-bar-color",
+      "platforms": [
+        "android"
+      ]
+  },
+  "typings": "index.d.ts"
+}
