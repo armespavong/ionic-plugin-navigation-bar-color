@@ -14,11 +14,15 @@ npm i --save ionic-plugin-navigation-bar-color
 ## Config
 For global config using "cordova-plugin-navigationbar-color" you can just add preference to config.xml file.
 ```xml
-<preference name="NavigationBarBackgroundColor" value="#282f34" />
+<preference name="NavigationBarBackgroundColor" value="#000000" />
 ```
-Where "#282f34" is your desired hex string color code.
+Where "#000000" is your desired hex string color code.
 
-or you can use "ionic-plugin-navigation-bar-color" to set inside each Ionic module
+Add "cordova-plugin-navigationbar-color" plugin tag to config.xml
+```xml
+<plugin name="cordova-plugin-navigationbar-color" spec="0.0.8" />
+```
+And you can use "ionic-plugin-navigation-bar-color" to set inside each Ionic module
 
 ## Import
 Import to app.module.ts
