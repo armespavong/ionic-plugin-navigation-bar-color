@@ -1,6 +1,6 @@
 {
   "name": "ionic-plugin-navigation-bar-color", 
-  "version": "1.0.1", 
+  "version": "1.0.2", 
   "description": "Control native navigation bar color", 
   "main": "index.ts", 
   "module": "index.js",

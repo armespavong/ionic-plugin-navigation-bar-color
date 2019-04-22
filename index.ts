@@ -2,9 +2,9 @@ import { Injectable } from '@angular/core';
 import { Plugin, IonicNativePlugin, Cordova } from '@ionic-native/core';
 
 @Plugin({
-    pluginName: 'NavigationBar', // should match the name of the wrapper class
+    pluginName: 'NavigationBarColor', // should match the name of the wrapper class
     plugin: 'cordova-plugin-navigationbar-color', // NPM package name
-    pluginRef: 'NavigationBar', // name of the object exposed by the plugin
+    pluginRef: 'NavigationBarColor', // name of the object exposed by the plugin
     repo: 'https://github.com/cranberrygame/cordova-plugin-navigationbar', // plugin repository URL
     platforms: ['Android'] // supported platforms
 })
