@@ -1,5 +1,5 @@
 
-# Ionic Plugin: Navigation Bar Color
+# Ionic 3 Plugin: Navigation Bar Color
 Change color of navigation bar (Android) for your app in each page.
 
 ## Install
