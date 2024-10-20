@@ -2,6 +2,8 @@
 # Ionic 3 Plugin: Navigation Bar Color
 Change color of navigation bar (Android) for your app in each page.
 
+**Note: This library has been deprecated.**
+
 ## Install
 This plugins needs "cordova-plugin-navigationbar-color"
 ```npm

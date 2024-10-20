@@ -1,12 +1,12 @@
 {
   "name": "ionic-plugin-navigation-bar-color", 
-  "version": "1.0.2", 
+  "version": "1.0.3", 
   "description": "Control native navigation bar color", 
   "main": "index.ts", 
   "module": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/armespavong/ionic-plugin-navigation-bar-color"
+    "url": "git+https://github.com/patiparnne/ionic-plugin-navigation-bar-color"
   },
   "keywords": [ 
     "ionic",
@@ -20,9 +20,9 @@
   "author": "Patiparnne Vongchompue", 
   "license": "None",
   "bugs": { 
-    "url": "https://github.com/armespavong/ionic-plugin-navigation-bar-color/issues"
+    "url": "https://github.com/patiparnne/ionic-plugin-navigation-bar-color/issues"
   },
-  "homepage": "https://github.com/armespavong/ionic-plugin-navigation-bar-color#readme",
+  "homepage": "https://github.com/patiparnne/ionic-plugin-navigation-bar-color#readme",
   "cordova": {
       "id": "ionic-plugin-navigation-bar-color",
       "platforms": [
